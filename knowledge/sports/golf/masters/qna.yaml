@@ -19,6 +19,6 @@ seed_examples:
      Ludvig Aberg won $2,160,000 for his second place finish at the 2024 Masters.
 document:
  repo: https://github.com/munchee13/2024masters.git
- commit: e6cb944
+ commit: cc2bd8c
  patterns:
   - Final Results Masters 2024.md
